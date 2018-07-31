@@ -1,0 +1,26 @@
+pvalue < 0.001
+
+epithelial:		10.70 % of all links, abs r > 0.42
+cancer:			3.01 % of all links, abs r > 0.37
+epithelial_cancer:	14.03 % of all links, abs r > 0.28
+
+
+pvalue < 0.0001
+
+epithelial:		5.68 % of all links, abs r > 0.49
+cancer:			1.23 % of all links, abs r > 0.43
+epithelial_cancer:	8.16 % of all links, abs r > 0.33
+
+
+pvalue < 0.00001
+
+epithelial:		3.09 % of all links, abs r > 0.54
+cancer:			0.53 % of all links, abs r > 0.49
+epithelial_cancer:	4.78 % of all links, abs r > 0.37
+
+
+pvalue < 0.000001
+
+epithelial:		1.73 % of all links, abs r > 0.59
+cancer:			0.24 % of all links, abs r > 0.53
+epithelial_cancer:	2.81 % of all links, abs r > 0.41
